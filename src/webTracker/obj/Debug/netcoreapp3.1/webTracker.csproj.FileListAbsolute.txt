@@ -179,3 +179,4 @@
 /home/stefan/webTracker/src/webTracker/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
 /home/stefan/webTracker/src/webTracker/obj/Debug/netcoreapp3.1/Razor/Views/Home/Everyone.cshtml.g.cs
 /home/stefan/webTracker/src/webTracker/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/stefan/webTracker/src/webTracker/obj/Debug/netcoreapp3.1/Razor/Views/Employees/_trackerView.cshtml.g.cs

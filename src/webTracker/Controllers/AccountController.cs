@@ -14,7 +14,7 @@ namespace webTracker.Controllers
             {
                 return Challenge(OpenIdConnectDefaults.AuthenticationScheme);
             }
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Employees");
         }
 
         public IActionResult Logout()
